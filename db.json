@@ -1,8 +1,32 @@
 {
   "notes": [
     {
-      "text": "Hello. You can add and save Notes",
+      "text": "Hello. You can add, save, delete, zoom in and zoom out  Notes.",
+      "color": "#6F90E8",
+      "isOpen": false,
+      "id": 1
+    },
+    {
+      "text": "Please note: Changes are faked and aren't persisted.",
       "color": "#4FE833",
+      "isOpen": false,
+      "id": 1
+    },
+    {
+      "text": "You can change different colors. This option is only available once clicked on the Note.",
+      "color": "#FFD745",
+      "isOpen": false,
+      "id": 1
+    },
+    {
+      "text": "Fully responsive!",
+      "color": "#E85833",
+      "isOpen": false,
+      "id": 1
+    },
+    {
+      "text": "Enjoy the code. I used Class component for Container component. Presentational components was created as Functional components. This is App does not concern about styling. However, I used styled-components library to style the App.",
+      "color": "#BA2AFF",
       "isOpen": false,
       "id": 1
     }
