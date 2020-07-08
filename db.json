@@ -25,7 +25,7 @@
       "id": 1
     },
     {
-      "text": "Enjoy the code. I used Class component for Container component and Functional components for Presentational components. This is App does not concern about styling. However, I used styled-components library to style the App.",
+      "text": "Enjoy the code. I used Class component for Container component and Functional components for Presentational components. This App does not concern about styling. However, I used styled-components library to style the App.",
       "color": "#BA2AFF",
       "isOpen": false,
       "id": 1
