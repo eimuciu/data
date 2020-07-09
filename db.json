@@ -30,5 +30,116 @@
       "isOpen": false,
       "id": 1
     }
+  ],
+  "expense": [
+    {
+      "date": "2020-05-12",
+      "category": "Car",
+      "description": "Degalai",
+      "amount": 20,
+      "id": 1
+    },
+    {
+      "date": "2020-05-01",
+      "category": "Rent",
+      "description": "Nuoma",
+      "amount": 155,
+      "id": 2
+    },
+    {
+      "date": "2020-05-14",
+      "category": "Food",
+      "description": "Maistas",
+      "amount": 50,
+      "id": 4
+    },
+    {
+      "date": "2020-05-14",
+      "category": "Clothes",
+      "description": "Striuke, batai ir pan",
+      "amount": 99,
+      "id": 5
+    },
+    {
+      "date": "2020-05-15",
+      "category": "Entertainment",
+      "description": "Nice",
+      "amount": "155",
+      "id": 6
+    },
+    {
+      "date": "2020-06-16",
+      "category": "Food",
+      "description": "What's up",
+      "amount": 56,
+      "id": 7
+    }
+  ],
+  "income": [
+    {
+      "date": "2020-05-06",
+      "source": "Job",
+      "description": "Furlough scheme",
+      "amount": "1000.00",
+      "id": 1,
+      "category": "Investment"
+    },
+    {
+      "date": "2020-05-06",
+      "source": "Interest",
+      "description": "What's up",
+      "amount": "2000",
+      "id": 2
+    },
+    {
+      "date": "2020-05-08",
+      "source": "Job",
+      "description": "OKOK",
+      "amount": "23000",
+      "id": 3
+    },
+    {
+      "date": "2020-05-12",
+      "source": "Sold",
+      "description": "AI",
+      "amount": 150,
+      "id": 4
+    },
+    {
+      "date": "2020-05-12",
+      "source": "Job",
+      "description": "Nice",
+      "amount": 9999,
+      "id": 5
+    },
+    {
+      "date": "2020-06-15",
+      "source": "Job",
+      "description": "Darbas",
+      "amount": 10000,
+      "id": 8
+    }
+  ],
+  "users": [
+    {
+      "email": "email@email.com",
+      "password": "random",
+      "id": 1
+    },
+    {
+      "email": "new@email.com",
+      "password": "random",
+      "id": 2
+    },
+    {
+      "email": "nice@nice.com",
+      "password": "nice",
+      "id": 4
+    },
+    {
+      "email": "asesu@asesu.com",
+      "password": "asesu",
+      "id": 5
+    }
   ]
 }
