@@ -2,31 +2,31 @@
   "notes": [
     {
       "text": "Hello. You can add, save, delete, zoom in and zoom out  Notes.",
-      "color": "#6F90E8",
+      "color": "#823038",
       "isOpen": false,
       "id": 1
     },
     {
       "text": "Please note: Changes are faked and aren't persisted.",
-      "color": "#4FE833",
+      "color": "#99C24D",
       "isOpen": false,
       "id": 1
     },
     {
       "text": "You can choose different colors. This option is only available once clicked on the Note.",
-      "color": "#FFD745",
+      "color": "#4F759B",
       "isOpen": false,
       "id": 1
     },
     {
       "text": "Fully responsive!",
-      "color": "#E85833",
+      "color": "#EE6123",
       "isOpen": false,
       "id": 1
     },
     {
       "text": "Enjoy the code. I used Class component for Container component and Functional components for Presentational components. This App does not concern about styling. However, I used styled-components library to style the App.",
-      "color": "#BA2AFF",
+      "color": "#C60F7B",
       "isOpen": false,
       "id": 1
     }
